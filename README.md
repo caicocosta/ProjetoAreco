@@ -4,7 +4,7 @@
 
 * Banco de dados utilizado MySQL.
 
-* Para acesso ao sistema, basta que ele seja compilado, e a biblioteca libMySQL32.dll esteja na mesma pasta do executável. 
+* Para acesso ao sistema, basta que ele seja compilado, e a biblioteca libMySQL.dll esteja na mesma pasta do executável. 
 
 * O acesso ao banco se dá através de um arquivo .ini que é criado no momento da primeira execução, ele deve ser configurado com o nome da base de dados, usuário e senha. Caso não seja feito nenhuma alteração, por padrão as configurações são:
   Database=produtositens
